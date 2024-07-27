@@ -1,4 +1,4 @@
-18. O submundo
+18. O Submundo
 
 [ODISSEU]
 Amigos, as instruções de Circe foram claras
@@ -24,7 +24,7 @@ Sou incapaz de sonhar, há somente pesadelos daqueles que partiram
 Nada é o que parece
 (Nada é o que parece)
 E aqui no Submundo, o passado parece sempre próximo
-(Esta terra brinca com sua mente)
+(Este lugar brinca com sua mente)
 
 [SOLDADOS CAÍDOS]
 Quando um homem passa a ser um monstro?
@@ -43,14 +43,14 @@ Continuo pensando na criança daquela noite
 Continuo pensando na criança daquela noite
 
 [POLITES]
-Esta vida é deslumbrante quando você a recebe de braços abertos
+Esta vida é incrível quando você a recebe de braços abertos
 
 [ODISSEU]
 Polites
 
 [POLITES]
-Seja lá o que enfrentemos, ficaremos bem se seguirmos o coração
-Não importa o lugar, podemos trazer luz à escuridão
+O que quer que encontremos, ficaremos bem se tudo vier do coração
+Não importa onde, podemos ser luz na escuridão
 É assim que se faz:
 Receba o mundo de braços abertos
 Receba o mundo de braços abertos
@@ -87,19 +87,20 @@ Demorei demais
 E me aventurei longe demais
 (Estarei em seu coração)
 Enquanto você estava
+
 [AMBOS]
 Esperando, esperando, esperando
 
 [ODISSEU, falado]
-Tchau, mãe
+Até mais, mãe
 
 [ODISSEU, TRIPULAÇÃO]
 Tudo o que ouço são gritos
 (Tudo o que ouço são gritos)
 Toda vez que ouso cerrar meus olhos
-Não tenho mais sonhos
-(Não tenho mais sonhos)
-Apenas pesadelos daqueles que partiram
+Sou incapaz de sonhar
+(Incapaz de sonhar)
+Há somente pesadelos daqueles que partiram
 Nada é o que parece
 (Nada é o que parece)
 Mas no Submundo, seu passado está sempre próximo
