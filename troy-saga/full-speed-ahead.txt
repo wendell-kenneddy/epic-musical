@@ -40,8 +40,7 @@ Então, Capitão, qual o plano?
 [ODISSEU]
 Observem para onde os pássaros voam
 Eles nos levarão à terra firme
-Lá procuraremos alimento, 
-meu braço-direito
+Lá procuraremos alimento, meu braço-direito
 Agora, à toda velocidade
 (Subimos, partimos e em frente vamos) [3x]
 
@@ -65,7 +64,7 @@ Vejo fogo, mas nenhuma fumaça
 [EURÍLOCO]
 Digo pra invadirmos!
 Não temos tempo a perder
-então vamos atacar o lugar e-
+Então vamos atacar o lugar e-
 
 [ODISSEU, POLITES]
 Não!
@@ -80,8 +79,7 @@ Vamos tentar encontrar um jeito de ninguém acabar morto
 [ODISSEU]
 Me dêem até a alvorada
 Se até lá, não retornarmos
-Então os seiscentos homens podem fazer este 
-lugar queimar
+Então os seiscentos homens podem fazer este lugar queimar
 
 [ODISSEU, TRIPULAÇÃO]
 Agora, à toda velocidade
