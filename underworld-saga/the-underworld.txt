@@ -1,4 +1,4 @@
-O Submundo
+18. O submundo
 
 [ODISSEU]
 Amigos, as instruções de Circe foram claras
@@ -15,29 +15,29 @@ Então não importa o que encontremos
 [TRIPULAÇÃO]
 À toda velocidade, até encontrarmos o profeta
 
-[ODISSEU, spoken]
+[ODISSEU]
 Muito bem
 
 [ODISSEU, TRIPULAÇÃO]
 Tudo o que ouço são gritos, toda vez que ouso cerrar meus olhos
-Não tenho sonhos, somente pesadelos daqueles que partiram
+Sou incapaz de sonhar, há somente pesadelos daqueles que partiram
 Nada é o que parece
-Nada é o que parece
+(Nada é o que parece)
 E aqui no Submundo, o passado parece sempre próximo
-Esta terra brinca com sua mente
+(Esta terra brinca com sua mente)
 
 [SOLDADOS CAÍDOS]
 Quando um homem passa a ser um monstro?
-Quinhentos e cinquenta e oito homens que morreram sob seu comando
+Quinhentos e cinquenta e oito homens, que morreram sob seu comando
 Capitão! Capitão! Capitão! Capitão!
 Por que você deixaria o ciclope viver
 Quando crueldade é misericórdia?
 
-[ODISSEU, TRIPULAÇÃO, TODOS]
+[ODISSEU, TRIPULAÇÃO]
 Tudo o que ouço são gritos, toda vez que ouso cerrar meus olhos
-Não tenho sonhos, somente pesadelos daqueles que partiram
+Sou incapaz de sonhar, há somente pesadelos daqueles que partiram
 Nada é o que parece
-Nada é o que parece
+(Nada é o que parece)
 E aqui no Submundo, o passado parece sempre próximo
 Continuo pensando na criança daquela noite
 Continuo pensando na criança daquela noite
@@ -45,7 +45,7 @@ Continuo pensando na criança daquela noite
 [POLITES]
 Esta vida é deslumbrante quando você a recebe de braços abertos
 
-[ODISSEU, falado]
+[ODISSEU]
 Polites
 
 [POLITES]
@@ -54,6 +54,7 @@ Não importa o lugar, podemos trazer luz à escuridão
 É assim que se faz:
 Receba o mundo de braços abertos
 Receba o mundo de braços abertos
+
 [ODISSEU]
 Polites
 
@@ -61,7 +62,7 @@ Polites
 Esperando
 
 [ODISSEU, falado]
-Essa voz, não pode ser
+Essa voz, não pode ser..
 
 [ANTICLEIA]
 Esperando
@@ -71,19 +72,20 @@ Mãe?
 
 [ANTICLEIA, ODISSEU]
 Esperando
-Odisseu, estarei esperando sua volta
+Odisseu, estarei esperando sua volta 
 Ainda que você seja minha última vista, estarei esperando
-Estou bem aqui, mãe (Esperando)
-Não vê? Estou
+(Estou bem aqui, mãe)
+Esperando
+(Não vê? Estou)
 
 [AMBOS]
 Esperando
 
 [ODISSEU, ANTICLEIA]
 Demorei demais
-Irei sempre te amar
+(Irei sempre te amar)
 E me aventurei longe demais
-Estarei em seu coração
+(Estarei em seu coração)
 Enquanto você estava
 [AMBOS]
 Esperando, esperando, esperando
@@ -91,15 +93,15 @@ Esperando, esperando, esperando
 [ODISSEU, falado]
 Tchau, mãe
 
-[ODISSEU, TRIPULAÇÃO, TODOS]
+[ODISSEU, TRIPULAÇÃO]
 Tudo o que ouço são gritos
-Tudo o que ouço são gritos
+(Tudo o que ouço são gritos)
 Toda vez que ouso cerrar meus olhos
 Não tenho mais sonhos
-Não tenho mais sonhos
+(Não tenho mais sonhos)
 Apenas pesadelos daqueles que partiram
 Nada é o que parece
-Nada é o que parece
+(Nada é o que parece)
 Mas no Submundo, seu passado está sempre próximo
 Seu passado está sempre próximo
 Logo abaixo no Submundo

@@ -1,3 +1,5 @@
+20. Monstro
+
 [ODISSEU]
 Como tudo virou contra nós?
 Como o sofrimento se tornou interminável?
@@ -36,16 +38,16 @@ Isto nos fortaleceria?
 Isto manteria nossos inimigos longe?
 Se eu me tornasse o monstro para todos com exceção de nós
 E nos levasse de volta para casa
-Quem se importaria se somos injuntos?
+Quem se importaria se somos injustos?
 Se eu me tornasse o
 
-[SOLDADOS]
+[TROPA]
 Monstro
 
 [ODISSEU]
 Oh, crueldade é misericórdia entre nós
 
-[SOLDADOS]
+[TROPA]
 Monstro
 
 [ODISSEU]
@@ -59,25 +61,25 @@ Irei aonde Poseidon não nos encontre
 E se eu precisar me desfazer de outra criança
 Serei rápido se isso nos manter vivo
 
-[ODISSEU, TODOS]
+[ODISSEU, TROPA]
 Então me tornarei o
-Monstro
+(Monstro)
 Acertarei o golpe
 E me tornarei o
-Monstro
+(Monstro)
 Como ninguém nunca viu
 Então e se eu for o
-Monstro
+(Monstro)
 Rastejando nas profundezas?
 Devo me tornar o
-Monstro
+(Monstro)
 E então iremos voltar para casa
 
-Monstro
-Penélope
-Monstro
+(Monstro)
+Penelope
+(Monstro)
 Telémaco
-Monstro
+(Monstro)
 Oh, crueldade é misericórdia entre nós
-Monstro
+(Monstro)
 Me tornarei o monstro
