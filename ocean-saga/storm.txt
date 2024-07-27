@@ -20,7 +20,7 @@ Algo que jamais havíamos visto antes
 Preparem-se para uma tempestade
 (Tempestade)
 Com nosso lar tão perto, devemos continuar avançando
-(A toda a velocidade)
+(À toda a velocidade)
 
 [ODISSEU]
 Avante em direção a ilha, mas evitem o impacto das ondas
@@ -41,7 +41,7 @@ Estamos sofrendo demais pra sobreviver
 
 [ODISSEU, SOLDADOS]
 Venceremos essa tempestade
-Tempestade
+(Tempestade)
 
 [EURÍLOCO]
 Desse jeito, não conseguiremos sair vivos
@@ -53,7 +53,7 @@ Capitão, olhe!
 Uma ilha nos céus
 
 [ODISSEU]
-EURÍLOCO, pegue os harpões
+Euríloco, pegue os arpões
 Quantos conseguir achar
 
 [EURÍLOCO]
@@ -70,7 +70,7 @@ Tempestade
 Tempestade
 
 [ODISSEU]
-Todos peguem um harpão e mirem no alto
+Todos peguem um arpão e mirem no alto
 
 [SOLDADOS]
 Tempestade
