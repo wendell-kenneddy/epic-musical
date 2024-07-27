@@ -6,13 +6,13 @@ Capitão!
 Capitão!
 
 [EURÍLOCO]
-Capitão!!
+Capitão!
 
 [ODISSEU]
-Devemos ser rápidos, 
+Devemos ser rápidos 
 Não temos muito tempo
 Ele não notou que misturei lótus em seu vinho
-Marquem minhas palavras, 
+Marquem minhas palavras 
 Esse não é o fim
 
 [EURÍLOCO]
@@ -113,7 +113,7 @@ Ele é ameaça enquanto viver
 Termine.
 
 [ODISSEU]
-Não
+Não.
 
 [ATHENA]
 Não?
@@ -142,7 +142,7 @@ Lembrem-se de nós
 Lembrem-se DE MIM
 
 Eu sou o rei que governa Itacá
-Eu não homem, muito menos mito
+Eu não sou homem, muito menos mito
 Sou seu momento mais sombrio
 Eu sou o infame...
 ODISSEU!

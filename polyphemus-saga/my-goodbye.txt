@@ -40,7 +40,7 @@ Mas agora, acabou
 Por aqui, você sai da minha cabeça
 Por aqui, não desgraçará minha vida
 Por aqui, quando tudo acabar
-Sumirá de vista, e dos pensamentos
+Sumirá de vista, e dos meus pensamentos
 
 Por aqui, vai ter o que queria
 Por aqui, vai economizar seu tempo
@@ -48,7 +48,7 @@ Por aqui fechará as portas e terá a porra do seu adeus!
 
 [ATHENA]
 Você não procura por uma mentora, e nem eu por um amigo!
-Te confundi com um comandante,
+Te confundi com um comandante
 Que desperdício de esforço!
 
 [ODISSEU]
@@ -70,7 +70,11 @@ Hoje, rompeu os laços
 No dia de hoje, você perdeu tudo
 Considere esse como meu adeus
 
+(Oh)
 Considere esse o meu adeus
+(Oh)
 Esse é o meu adeus
+(Oh)
 Considere esse o meu adeus
+(Oh)
 ISSO É UM ADEUS!
