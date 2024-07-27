@@ -13,7 +13,7 @@ Diga que não sentiu tanta saudade de casa, que entregou de bandeja as vidas de 
 
 [EURYLOCHUS]
 Quando lutamos com os ciclópes, foi rápido bolando uma saída
-E quando lutamos com Circe, 
+E quando lutamos com Circe
 Foi VOCÊ que não deixou ninguém pra trás!
 Mas quando encontramos esse monstro sequer tentamos lutar
 Só fugimos
@@ -132,13 +132,13 @@ Capitão...
 [ODYSSEUS]
 Temos que sair dessa ilha agora
 Peguem o remo com toda a força em seus braços
-Essas vacas eram imortais, 
-eram amigas do Deus Sol
+Essas vacas eram imortais
+Eram amigas do Deus Sol
 E agora que a gente deixou ele puto, QUEM ACHA QUE ELE VAI MANDAR?
 
 [CREW, ODYSSEUS]
-A toda velocidade
-(A toda velocidade)
+À toda velocidade
+(À toda velocidade)
 MAIS RÁPIDO
 [2x]
 

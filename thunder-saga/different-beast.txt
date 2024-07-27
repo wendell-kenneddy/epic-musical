@@ -24,11 +24,11 @@ O quê?!
 [ODISSEU]
 Somos uma fera diferente agora
 Nós que nos divertimos agora
-Não perderemos mais vidas, 
+Não perderemos mais vidas
 Porque não sofreremos mais pelas suas mãos
 
 [TRIPULAÇÃO, ODISSEU]
-Nós somos os monstros feitos de homem
+Nós somos os monstros forjados pelo homem
 Somos aqueles que conquistam
 Vocês já não são ameaça
 Não sofreremos mais pelas suas mãos
@@ -48,7 +48,7 @@ Foi assim que resistimos a seu cantar
 Você fingiu ser minha esposa, 
 Eu só entrei no seu joguinho
 
-Li seus lábios em cada frase, 
+Li seus lábios em cada frase
 Buscando informação
 Sereias conhecem cada caminho e horizonte
 Agora sei como voltar pra minha ilha
@@ -56,10 +56,9 @@ Agora sei como voltar pra minha ilha
 [TRIPULAÇÃO]
 Somos uma fera diferente agora
 Nós que nos divertimos agora
-Não teremos mais perdas, 
-Porque não sofreremos 
-mais pelas suas mãos
-Nós somos os monstros feitos de homem
+Não teremos mais perdas
+Porque não sofreremos mais pelas suas mãos
+Nós somos os monstros forjados pelo homem
 Somos aqueles que conquistam
 Vocês já não são ameaça
 Não sofreremos mais pelas suas mãos
@@ -76,7 +75,7 @@ Eu já cometi um erro como esse, quase custou minha vida
 Não posso correr mais riscos de não ver minha esposa
 
 [ODISSEU]
-Cortem suas caudas, isso acaba agora! Joguem os corpos de volta na água. 
+Cortem suas caudas, isso acaba agora! Joguem os corpos de volta na água.
 Que se afoguem.
 
 [SEREIAS]
@@ -88,7 +87,7 @@ Ele é uma fera diferente agora
 Sem mais vidas perdidas, 
 Porque ele não sofrerá 
 Mais pelas suas mãos
-Ele é o monstro feito de homem
+Ele é o monstro forjado pelo homem
 É aquele que conquista
 Vocês já não são ameaça
 Ele não sofrerá mais pelas suas mãos

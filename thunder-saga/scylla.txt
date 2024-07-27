@@ -1,19 +1,19 @@
 23. Scylla 
 
 [ODISSEU]
-O Covil de Scylla...
+O covil de Scylla...
 É nosso único caminho pra casa
 
 [SCYLLA]
 Lá no fundo
 
-[EURÍLOCO]
-Está quieto hoje.
+[EURÍLOCO, falado]
+Está quieto hoje
 
 [SCYLLA]
 Lá no fundo
 
-[ODISSEU]
+[ODISSEU, falado]
 Sem muito o que dizer...
 
 [SCYLLA, TRIPULAÇÃO]
@@ -39,15 +39,15 @@ Não há preço que não pagaríamos
 Nós dois sabemos o que é preciso pra sobreviver
 
 [TRIPULAÇÃO]
-A toda velocidade 
-(A toda velocidade)
+À toda velocidade 
+(À toda velocidade)
 
 [SCYLLA, TRIPULAÇÃO]
 Lá no fundo...
 Só ligamos pra nós mesmos
 
 [ODISSEU]
-Euríloco, acenda seis tochas.
+Euríloco, acenda seis tochas
 
 [SCYLLA]
 Lá no fundo
