@@ -1,9 +1,9 @@
-Você não gostaria?
+15. Você não gostaria?
 
 [HERMES]
 Devo reconhecer o belo discurso que você deu
 
-[ODISSEU, falado]
+[ODISSEU]
 Quem está aí?
 
 [HERMES]
@@ -14,7 +14,7 @@ Você vai precisar da bênção de um certo deus
 Intervenção divina
 Alguém que não tem medo de entregar uma mensagem
 
-[ODISSEU, falado]
+[ODISSEU]
 Hermes?
 
 [HERMES]
@@ -32,7 +32,7 @@ Ela pode fazê-lo se apaixonar como se estivesse em seu centésimo encontro
 Ela pode conjurar um monstro que irá te desossaar
 Ela tem todas as formas de atormentá-lo quando a enfrenta sozinho
 
-[HERMES E GRUPO]
+[HERMES E CORO]
 Você não gostaria de um gostinho do poder?
 Você não gostaria de usar mais que palavras?
 Noite adentro a batalha dura horas
@@ -52,16 +52,16 @@ Tudo que você precisa é de imaginação
 Embora apenas por um momento
 Até que tenha derrotado seu oponente
 
-[HERMES, falado]
+[HERMES]
 E eu chamo essa raíz de: Catapimbas
 
-[ODISSEU, falado]
+[ODISSEU]
 Ah
 
 [HERMES]
 Hahahahahaha!
 
-[HERMES E GRUPO]
+[HERMES, CORO]
 Você não gostaria de um gostinho do poder?
 Você não gostaria de usar mais que palavras?
 Noite adentro a batalha dura horas
@@ -71,7 +71,7 @@ Você não gostaria de ter seu desfecho feito realidade?
 Noite adentro a batalha pode ser trágica
 Eu o ajudarei a conquistá-la
 
-[HERMES E GRUPO, ODISSEU]
+[HERMES, CORO]
 (Oh) Você não gostaria de um gostinho do poder?
 Você não gostaria de usar mais que palavras?
 (Oh) Noite adentro a batalha dura horas
@@ -81,7 +81,7 @@ Você não gostaria de ter seu desfecho feito realidade?
 (Oh) Noite adentro a batalha pode ser trágica
 Eu o ajudarei a conquistá-la
 
-[ODISSEU, falado]
+[ODISSEU]
 Hermes
 Obrigado
 

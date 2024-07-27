@@ -1,22 +1,22 @@
-É o seu fim
+16. É o seu fim
 
 [ODISSEU]
 Dama do palácio, perdão pela pergunta
 Mas acredito ter sido enganado
-Eu despachei alguns batedores para darem uma olhada por essa área
+Eu despacehi alguns batedores para darem uma olhada por essa área
 E eles se amontoaram na sua porta
 Nesses anos nós raramente
 Recebemos boas-vindas
 Então devo perguntar para ter certeza
 
-[ODISSEU, falado]
+[ODISSEU]
 Você fez algo com eles?
 
 [CIRCE]
 Quem, eu?
 Tudo que fiz foi revelar suas verdadeiras formas
 
-[ODISSEU, falado]
+[ODISSEU]
 Você os transformou em porcos
 
 [CIRCE]
@@ -51,7 +51,7 @@ Pois eu tirei essa raíz do chão com minhas próprias mãos
 [CIRCE, falado]
 Hermes entregou para você, não foi?
 
-[ODISSEU, falado]
+[ODISSEU]
 Aff, sim, mas mesmo assim
 
 [ODISSEU]
@@ -66,7 +66,7 @@ Eu irei deixar claro que é o seu fim
 Nem mesmo um feitiço pode te salvar, pois é o seu fim
 Oh, é melhor correr ou logo conhecerá seu fim
 
-[ODISSEU, falado]
+[ODISSEU]
 Você perdeu
 
 [CIRCE]
@@ -79,5 +79,5 @@ Para agraciá-lo com minha confiança
 Mas o verdadeiro eu de todo mundo
 É revelado nos atos de luxúria
 
-[ODISSEU, falado]
+[ODISSEU]
 Acho que não entendi

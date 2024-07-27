@@ -1,4 +1,4 @@
-Mestre das Marionetes
+14. Mestre das Marionetes
 
 [EURÍLOCO]
 Capitão, há algo que preciso confessar
@@ -20,7 +20,7 @@ Disso, tenho certeza
 [EURÍLOCO, falado]
 Okay
 
-[ODISSEU, falado]
+[ODISSEU]
 Euríloco, já está de volta?
 Onde está o resto da sua tropa?
 E pelos deuses, o que aconteceu com você?
@@ -33,7 +33,7 @@ Decidimos cumprimentá-la
 Mas não estávamos preparados
 Para o poder que jazia lá dentro
 
-[ODISSEU, falado]
+[ODISSEU]
 O que esse palácio escondia?
 
 [EURÍLOCO]
@@ -42,22 +42,22 @@ Desde que deixamos nosso lar enfrentamos uma miríade de inimigos de uma infinid
 Deuses, monstros, você sabe o catálogo, criaturas hostis que pudemos resistir
 Mas isso foi uma tremenda novidade, pois somos fracos mediante um poder como esse
 
-[ODISSEU, falado]
+[ODISSEU]
 O que era?
 
-[EURÍLOCO, falado]
+[EURÍLOCO]
 Uma mulher
 
-[ODISSEU, falado]
+[ODISSEU]
 O quê?
 
-[EURÍLOCO, falado]
+[EURÍLOCO]
 Ela nos cativou em meras duas palavras
 
 [CIRCE]
 Podem entrar
 
-[ODISSEU, falado]
+[ODISSEU]
 Cacetada
 
 [CIRCE]
@@ -101,7 +101,7 @@ Tenho todo o poder, isso mesmo, todo o poder
 Não, não sou de brincar, sou a mestre das marionetes
 Não, eu não brinco, os faço me obedecerem, pode crer
 
-[ODISSEU, falado]
+[ODISSEU]
 Precisamos salvá-los
 
 [EURÍLOCO, falado]
@@ -125,7 +125,7 @@ E a voz dela engana (Encontrá-los entre)
 E se ela não puder ser morta? (Minhas ninfas e eu)
 Você irá correr? (Sua rainha amorosa)
 
-[ODISSEU, falado]
+[ODISSEU]
 Eu não sei
 
 [CIRCE]
@@ -139,7 +139,7 @@ E difícil de matar (Que pagamos por amar)
 É um jogo mental (Nós andamos numa linha tênue)
 Mas você não precisa jogar (Vigie daí de cima)
 
-[ODISSEU, falado]
+[ODISSEU]
 Eu preciso tentar
 
 [CIRCE]
