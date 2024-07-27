@@ -87,7 +87,7 @@ Ela os mudou
 [CIRCE]
 Tenho todo o poder, isso mesmo, todo o poder
 Não, não sou de brincar, sou a mestre das marionetes
-Não, eu não brinco, os faço me obedecerem, pode crer
+Não, eu não brinco, eu manipulo, pode crer
 
 [EURÍLOCO, CIRCE]
 Eles transformaram (Esse é o preço)
@@ -99,7 +99,7 @@ Ela os transformou
 [CIRCE]
 Tenho todo o poder, isso mesmo, todo o poder
 Não, não sou de brincar, sou a mestre das marionetes
-Não, eu não brinco, os faço me obedecerem, pode crer
+Não, eu não brinco, eu manipulo, pode crer
 
 [ODISSEU]
 Precisamos salvá-los
@@ -131,7 +131,7 @@ Eu não sei
 [CIRCE]
 Tenho todo o poder, isso mesmo, todo o poder
 Não, não sou de brincar, sou a mestre das marionetes
-Não, eu não brinco, os faço me obedecerem, pode crer
+Não, eu não brinco, eu manipulo, pode crer
 
 [EURÍLOCO, CIRCE]
 Ela é uma bruxa esperta (Esse é o preço)
@@ -145,4 +145,4 @@ Eu preciso tentar
 [CIRCE]
 Tenho todo o poder, isso mesmo, todo o poder
 Não, não sou de brincar, sou a mestre das marionetes
-Não, eu não brinco, os faço me obedecerem, pode crer
+Não, eu não brinco, eu manipulo, pode crer
